@@ -1,0 +1,31 @@
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Node dependencies
+node_modules/
+
+# Python virtual environments
+.venv/
+.onnx-venv/
+
+# Python generated files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Training checkpoints and generated model exports
+training/fine_tuned_model/
+training/onnx_model/
+training/onnx_model_v2/
+
+# Model backups
+backend/models/fine_tuned_minilm_backup/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

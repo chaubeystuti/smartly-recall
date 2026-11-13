@@ -1,0 +1,193 @@
+sentence1,sentence2,label
+Do you deliver on weekends?,Can my order arrive on Saturday or Sunday?,1
+Can I cancel my order?,Is it possible to cancel my order?,1
+Are online payments secure?,Is it safe to pay on your website?,1
+How do I complain about an item missing from my order?,Why was my payment declined?,0
+How do I contact customer support?,How can I reach your support team?,1
+Can I change the size of my product?,How can I request a different size?,1
+Is a cancelled prepaid order refundable?,What is your return policy?,0
+How can I change my delivery address?,How do I correct my shipping address?,1
+What is your return policy?,How can I return a product?,1
+How can I return a product?,Can I place an order without creating an account?,0
+Is product exchange available?,Can I place an order without creating an account?,0
+Can opened products still be returned?,Can I place an order without creating an account?,0
+Will I receive a refund for a cancelled order?,Do I get my money back after cancelling an order?,1
+Is it possible to exchange my item for another size?,What if I receive the wrong product?,0
+Is it possible to cancel my order?,Can I use multiple discount coupons?,0
+What caused my transaction to be rejected?,How can I change my delivery address?,0
+What can I do about a late delivery?,Can I exchange a product?,0
+Why did my payment fail?,Can I pay using cash on delivery?,0
+Can I get my order delivered without shipping charges?,What if I receive a damaged product?,0
+Is account registration compulsory to place an order?,Why was my payment declined?,0
+Can I pay in cash when my package arrives?,Is free shipping available?,0
+I want to permanently remove my account.,Do you deliver on weekends?,0
+Where can I get my purchase invoice?,What is your return policy?,0
+Can I use multiple discount coupons?,Is it possible to combine discount codes?,1
+How do I replace an item with another one?,Can I change the size of my product?,0
+What are the rules for returning an item?,Can I cancel my order?,0
+What payment methods are accepted?,Can I pay using UPI or a card?,1
+How do I correct my shipping address?,Can I cancel my order?,0
+What should I do if my item arrives broken?,Can I return a product after opening it?,0
+What is causing my refund to take longer?,How do I delete my account?,0
+How do I delete my account?,I want to permanently remove my account.,1
+Is it possible to exchange my item for another size?,Can I exchange a product?,0
+How can I download my invoice?,Where can I get my purchase invoice?,1
+How do I find out whether my refund has been processed?,Can I change the size of my product?,0
+Can I change the size of my product?,Is it possible to exchange my item for another size?,1
+How do I replace an item with another one?,How can I report a missing item?,0
+Can I pay using UPI or a card?,Why is my refund delayed?,0
+How can I request account deletion?,Can I cancel my order?,0
+Why hasn't my order arrived on time?,How can I track my order?,0
+How do I reset my password?,I forgot my password. How can I change it?,1
+How do I save my order bill?,What if I receive the wrong product?,0
+How do I complain about an item missing from my order?,What payment methods are accepted?,0
+What if I receive a damaged product?,How can I report a damaged delivery?,1
+When will I get my money back?,What if I receive a damaged product?,0
+What happens if I miss my delivery?,What if I am not home when my order arrives?,1
+Can I use multiple discount coupons?,Can I apply two coupons to one order?,1
+Where is my order right now?,How can I change my delivery address?,0
+How can I report a damaged delivery?,How do I contact customer support?,0
+Are online payments secure?,How secure are your online transactions?,1
+Can I modify my order after placing it?,Is it possible to edit my order after checkout?,1
+How long does a refund take?,How many days does it take to receive a refund?,1
+I forgot my password. How can I change it?,How do I contact customer support?,0
+Do you deliver on weekends?,Are weekend deliveries available?,1
+Why hasn't my order arrived on time?,Can I place an order without creating an account?,0
+How secure are your online transactions?,What payment methods are accepted?,0
+Why haven't I received my refund yet?,Do you deliver on weekends?,0
+How can I check my refund status?,How do I find out whether my refund has been processed?,1
+How can I report a damaged delivery?,How can I update my phone number?,0
+Are weekend deliveries available?,What if I receive a damaged product?,0
+Can I place an order without creating an account?,Is account registration compulsory to place an order?,1
+How can I track my order?,How do I check my package tracking status?,1
+How do I correct my shipping address?,How can I track my order?,0
+Can I cancel my order?,How can I cancel a purchase?,1
+How can I create a new account password?,Why is my refund delayed?,0
+Can I return a product after opening it?,Can opened products still be returned?,1
+Can I exchange a product?,Is product exchange available?,1
+What if I receive the wrong product?,How can I report receiving a different product?,1
+How many days does it take to receive a refund?,What if I receive a damaged product?,0
+Are weekend deliveries available?,Is free shipping available?,0
+Why did my payment fail?,What if I receive a damaged product?,0
+How do I delete my account?,How can I request account deletion?,1
+What if I am not home when my order arrives?,Will I receive a refund for a cancelled order?,0
+How do I save my order bill?,Why was my payment declined?,0
+What should I do if something is missing from my package?,Can I modify my order after placing it?,0
+How can I download my invoice?,How do I save my order bill?,1
+Can I make changes to an order I already placed?,Can I exchange a product?,0
+Do you offer cash on delivery?,Are online payments secure?,0
+Am I allowed to return an item once it is opened?,Can I use multiple discount coupons?,0
+Can I pay using cash on delivery?,Can I pay in cash when my package arrives?,1
+Is it possible to cancel my order?,Do you deliver on weekends?,0
+Where is my order right now?,Can I change the size of my product?,0
+Can I pay using UPI or a card?,How do I reset my password?,0
+Why haven't I received my refund yet?,Can I exchange a product?,0
+Can I buy something as a guest?,What if I receive the wrong product?,0
+Where can I see the progress of my refund?,Can I exchange a product?,0
+How can I reach your support team?,Are online payments secure?,0
+Can I buy something as a guest?,How can I check my refund status?,0
+What payment methods are accepted?,Which payment options can I use?,1
+How can I return a product?,How can I check my refund status?,0
+Is product exchange available?,Is free shipping available?,0
+What is your return policy?,What are the rules for returning an item?,1
+Can I return a product after opening it?,Am I allowed to return an item once it is opened?,1
+How can I request a different size?,Can I cancel my order?,0
+How can I report a missing item?,What should I do if something is missing from my package?,1
+How do I find out whether my refund has been processed?,Can I pay using cash on delivery?,0
+Is it possible to combine discount codes?,Can I change the size of my product?,0
+How do I check my package tracking status?,How long does a refund take?,0
+Why is my refund delayed?,What is causing my refund to take longer?,1
+Can I update the address for my order?,Is free shipping available?,0
+Can my order arrive on Saturday or Sunday?,What is your return policy?,0
+Can I apply two coupons to one order?,What should I do if my order is delayed?,0
+Where can I get help from customer service?,How do I delete my account?,0
+How can I cancel a purchase?,How can I change my delivery address?,0
+Can I pay using cash on delivery?,Do you offer cash on delivery?,1
+How do I edit my contact number?,Can I cancel my order?,0
+How can I report a missing item?,How do I complain about an item missing from my order?,1
+How do I contact customer support?,Where can I get help from customer service?,1
+Will I receive a refund for a cancelled order?,Is a cancelled prepaid order refundable?,1
+Can I update the address for my order?,How long does a refund take?,0
+Is it safe to pay on your website?,Why is my refund delayed?,0
+Which payment options can I use?,What if I receive a damaged product?,0
+What caused my transaction to be rejected?,What should I do if my order is delayed?,0
+How can I update my phone number?,Where can I change my registered mobile number?,1
+Is it possible to edit my order after checkout?,What payment methods are accepted?,0
+I forgot my password. How can I change it?,Can I modify my order after placing it?,0
+What should I do if my order is delayed?,What can I do about a late delivery?,1
+Can I make changes to an order I already placed?,How can I report a missing item?,0
+Am I allowed to return an item once it is opened?,How long does a refund take?,0
+Why was my payment declined?,Why did my payment fail?,1
+How do I edit my contact number?,How long does a refund take?,0
+Where can I change my registered mobile number?,What should I do if my order is delayed?,0
+What happens if I miss my delivery?,Will the delivery person try again if I miss them?,1
+What if I am not home when my order arrives?,What is your return policy?,0
+Where can I get my purchase invoice?,Will I receive a refund for a cancelled order?,0
+What should I do if something is missing from my package?,Why is my refund delayed?,0
+Can opened products still be returned?,Is free shipping available?,0
+How can I track my order?,Where is my order right now?,1
+Do you charge delivery fees?,Why was my payment declined?,0
+Is it possible to combine discount codes?,What if I receive a damaged product?,0
+Is a cancelled prepaid order refundable?,Can I cancel my order?,0
+What are the rules for returning an item?,How can I update my phone number?,0
+Is it possible to edit my order after checkout?,Is free shipping available?,0
+What can I do about a late delivery?,How can I report a missing item?,0
+How can I report receiving a different product?,Why is my refund delayed?,0
+Is free shipping available?,Can I get my order delivered without shipping charges?,1
+How long does a refund take?,When will I get my money back?,1
+When will I get my money back?,How do I contact customer support?,0
+Is account registration compulsory to place an order?,How can I update my phone number?,0
+Can I get my order delivered without shipping charges?,Are online payments secure?,0
+How can I reach your support team?,What if I receive the wrong product?,0
+Where can I get help from customer service?,How can I track my order?,0
+What should I do if the delivered item is incorrect?,What if I receive a damaged product?,0
+Do I get my money back after cancelling an order?,How do I delete my account?,0
+Why is my refund delayed?,Why haven't I received my refund yet?,1
+How can I update my phone number?,How do I edit my contact number?,1
+Is free shipping available?,Do you charge delivery fees?,1
+What should I do if my order is delayed?,Why hasn't my order arrived on time?,1
+Why was my payment declined?,What caused my transaction to be rejected?,1
+Will the delivery person try again if I miss them?,Can I cancel my order?,0
+How can I create a new account password?,Can I change the size of my product?,0
+I want to permanently remove my account.,Can I change the size of my product?,0
+What if I receive the wrong product?,What should I do if the delivered item is incorrect?,1
+What should I do if my item arrives broken?,Can I exchange a product?,0
+How can I report receiving a different product?,Do you deliver on weekends?,0
+Can I apply two coupons to one order?,Why was my payment declined?,0
+Do I get my money back after cancelling an order?,Can I pay using cash on delivery?,0
+Can my order arrive on Saturday or Sunday?,Will I receive a refund for a cancelled order?,0
+How can I request account deletion?,Why is my refund delayed?,0
+Where can I change my registered mobile number?,How can I report a missing item?,0
+What is causing my refund to take longer?,How do I contact customer support?,0
+How do I check my package tracking status?,Can I use multiple discount coupons?,0
+How do I reset my password?,How can I create a new account password?,1
+How many days does it take to receive a refund?,What payment methods are accepted?,0
+Can I place an order without creating an account?,Can I buy something as a guest?,1
+Do you charge delivery fees?,Why is my refund delayed?,0
+Is it safe to pay on your website?,How can I update my phone number?,0
+Do you offer cash on delivery?,What payment methods are accepted?,0
+Will the delivery person try again if I miss them?,Can I place an order without creating an account?,0
+How secure are your online transactions?,How do I reset my password?,0
+What should I do if the delivered item is incorrect?,Will I receive a refund for a cancelled order?,0
+Where can I see the progress of my refund?,How do I reset my password?,0
+How can I request a different size?,What if I receive the wrong product?,0
+Can I modify my order after placing it?,Can I make changes to an order I already placed?,1
+What if I receive a damaged product?,What should I do if my item arrives broken?,1
+How can I cancel a purchase?,Can I use multiple discount coupons?,0
+Can I pay in cash when my package arrives?,How can I report a missing item?,0
+Which payment options can I use?,Can I exchange a product?,0
+How can I change my delivery address?,Can I update the address for my order?,1
+How can I check my refund status?,Where can I see the progress of my refund?,1
+Can I exchange a product?,How do I replace an item with another one?,1
+Is delivery free?,Can I pay when my order arrives?,0
+Do you charge shipping fees?,What payment methods do you accept?,0
+Is free delivery available?,Do you offer cash on delivery?,0
+Can I get free shipping?,Is cash payment available at delivery?,0
+Are delivery charges waived?,Can I pay using cash on delivery?,0
+Do I have to pay shipping fees?,Can I pay by card?,0
+Why is my refund taking so long?,How can I return a product?,0
+When will my money be credited?,What is your return policy?,0
+Has my refund been processed?,Can I return an opened item?,0
+Why haven't I received my money?,How many days do I have to return a product?,0
+Is my refund still pending?,How do I exchange an item?,0
+When will the bank process my refund?,Can I return a damaged product?,0

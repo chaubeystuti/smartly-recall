@@ -1,0 +1,402 @@
+[
+  {
+    "question": "How do I track my package?",
+    "expectedFaqId": 1
+  },
+  {
+    "question": "Mera order kahan tak pahucha hai?",
+    "expectedFaqId": 1
+  },
+  {
+    "question": "How many days does it take to get my money back?",
+    "expectedFaqId": 2
+  },
+  {
+    "question": "Refund aane mein kitna time lagta hai?",
+    "expectedFaqId": 2
+  },
+  {
+    "question": "How can I stop my order?",
+    "expectedFaqId": 3
+  },
+  {
+    "question": "Mujhe apna order cancel karna hai.",
+    "expectedFaqId": 3
+  },
+  {
+    "question": "What are the rules for returning items?",
+    "expectedFaqId": 4
+  },
+  {
+    "question": "Product wapas karne ka kya policy hai?",
+    "expectedFaqId": 4
+  },
+  {
+    "question": "Can I edit my shipping address?",
+    "expectedFaqId": 5
+  },
+  {
+    "question": "Delivery address change kaise karu?",
+    "expectedFaqId": 5
+  },
+  {
+    "question": "Which payment options can I use?",
+    "expectedFaqId": 6
+  },
+  {
+    "question": "Payment karne ke liye kaun se methods hain?",
+    "expectedFaqId": 6
+  },
+  {
+    "question": "Why hasn't my package arrived yet?",
+    "expectedFaqId": 7
+  },
+  {
+    "question": "Mera order late ho raha hai, kya karu?",
+    "expectedFaqId": 7
+  },
+  {
+    "question": "Can I swap an item for another one?",
+    "expectedFaqId": 8
+  },
+  {
+    "question": "Product exchange kar sakte hain kya?",
+    "expectedFaqId": 8
+  },
+  {
+    "question": "What should I do if my item arrives broken?",
+    "expectedFaqId": 9
+  },
+  {
+    "question": "Mujhe damaged product mila hai, ab kya karu?",
+    "expectedFaqId": 9
+  },
+  {
+    "question": "How can I speak with your support team?",
+    "expectedFaqId": 10
+  },
+  {
+    "question": "Customer care se contact kaise karu?",
+    "expectedFaqId": 10
+  },
+  {
+    "question": "Do you offer the pay-on-delivery option?",
+    "expectedFaqId": 11
+  },
+  {
+    "question": "Kya main delivery ke time cash de sakta hu?",
+    "expectedFaqId": 11
+  },
+  {
+    "question": "Why is my transaction getting rejected?",
+    "expectedFaqId": 12
+  },
+  {
+    "question": "Mera payment baar baar fail kyun ho raha hai?",
+    "expectedFaqId": 12
+  },
+  {
+    "question": "Will I get my money back if I cancel my purchase?",
+    "expectedFaqId": 13
+  },
+  {
+    "question": "Order cancel karne par refund milega kya?",
+    "expectedFaqId": 13
+  },
+  {
+    "question": "Where can I get my purchase receipt?",
+    "expectedFaqId": 14
+  },
+  {
+    "question": "Invoice download kahan se karna hai?",
+    "expectedFaqId": 14
+  },
+  {
+    "question": "Do you provide delivery without shipping charges?",
+    "expectedFaqId": 15
+  },
+  {
+    "question": "Free delivery available hai kya?",
+    "expectedFaqId": 15
+  },
+  {
+    "question": "Can I send back an item after unboxing it?",
+    "expectedFaqId": 16
+  },
+  {
+    "question": "Product open karne ke baad return kar sakte hain?",
+    "expectedFaqId": 16
+  },
+  {
+    "question": "What happens if nobody is home when delivery arrives?",
+    "expectedFaqId": 17
+  },
+  {
+    "question": "Agar delivery ke time ghar par koi na ho toh?",
+    "expectedFaqId": 17
+  },
+  {
+    "question": "I forgot my password. How can I create a new one?",
+    "expectedFaqId": 18
+  },
+  {
+    "question": "Password bhool gayi, reset kaise karu?",
+    "expectedFaqId": 18
+  },
+  {
+    "question": "Is registration necessary to buy something?",
+    "expectedFaqId": 19
+  },
+  {
+    "question": "Account banaye bina order place kar sakte hain?",
+    "expectedFaqId": 19
+  },
+  {
+    "question": "How do I change my registered mobile number?",
+    "expectedFaqId": 20
+  },
+  {
+    "question": "Account mein phone number update kaise karu?",
+    "expectedFaqId": 20
+  },
+  {
+    "question": "Why haven't I received my refund yet?",
+    "expectedFaqId": 21
+  },
+  {
+    "question": "Mera refund abhi tak nahi aaya, kyun?",
+    "expectedFaqId": 21
+  },
+  {
+    "question": "Can I get a different size for my item?",
+    "expectedFaqId": 22
+  },
+  {
+    "question": "Product ka size change karwa sakte hain?",
+    "expectedFaqId": 22
+  },
+  {
+    "question": "Are packages delivered on Saturdays and Sundays?",
+    "expectedFaqId": 23
+  },
+  {
+    "question": "Weekend par bhi delivery hoti hai kya?",
+    "expectedFaqId": 23
+  },
+  {
+    "question": "One of the products is missing from my package. How do I report it?",
+    "expectedFaqId": 24
+  },
+  {
+    "question": "Mere parcel mein ek item missing hai, complaint kaise karu?",
+    "expectedFaqId": 24
+  },
+  {
+    "question": "Can I apply two discount codes on one purchase?",
+    "expectedFaqId": 25
+  },
+  {
+    "question": "Ek order par multiple coupons use kar sakte hain?",
+    "expectedFaqId": 25
+  },
+  {
+    "question": "How can I permanently close my account?",
+    "expectedFaqId": 26
+  },
+  {
+    "question": "Apna account permanently delete kaise karu?",
+    "expectedFaqId": 26
+  },
+  {
+    "question": "Is it safe to pay through your website?",
+    "expectedFaqId": 27
+  },
+  {
+    "question": "Online payment karna secure hai kya?",
+    "expectedFaqId": 27
+  },
+  {
+    "question": "Can I make changes to my purchase after checkout?",
+    "expectedFaqId": 28
+  },
+  {
+    "question": "Order place karne ke baad changes kar sakte hain?",
+    "expectedFaqId": 28
+  },
+  {
+    "question": "I received a different item from what I ordered. What should I do?",
+    "expectedFaqId": 29
+  },
+  {
+    "question": "Mujhe galat product deliver hua hai, kya karu?",
+    "expectedFaqId": 29
+  },
+  {
+    "question": "How can I find out whether my refund has been processed?",
+    "expectedFaqId": 30
+  },
+  {
+    "question": "Refund ka status kaise check kar sakta hu?",
+    "expectedFaqId": 30
+  },
+  {
+    "question": "What is the weather like today?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "Tell me a joke.",
+    "expectedFaqId": null
+  },
+  {
+    "question": "Who won the cricket match yesterday?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "How do I cook pasta?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "Suggest a healthy breakfast.",
+    "expectedFaqId": null
+  },
+  {
+    "question": "What is machine learning?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "Explain JavaScript promises.",
+    "expectedFaqId": null
+  },
+  {
+    "question": "How do I install Node.js?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "Write a Python program to sort an array.",
+    "expectedFaqId": null
+  },
+  {
+    "question": "Suggest a good laptop for programming.",
+    "expectedFaqId": null
+  },
+  {
+    "question": "What is the best smartphone under 20000?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "Recommend a movie for tonight.",
+    "expectedFaqId": null
+  },
+  {
+    "question": "How can I improve my sleep schedule?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "Give me a beginner workout routine.",
+    "expectedFaqId": null
+  },
+  {
+    "question": "What are the benefits of drinking water?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "How do I create a website?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "Explain database normalization.",
+    "expectedFaqId": null
+  },
+  {
+    "question": "What is the difference between AI and ML?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "How do I prepare for a technical interview?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "Can you recommend a good restaurant?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "What are some places to visit in Delhi?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "How do I book a flight ticket?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "Tell me today's gold price.",
+    "expectedFaqId": null
+  },
+  {
+    "question": "How can I save money every month?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "What is the meaning of artificial intelligence?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "Write a birthday message for my friend.",
+    "expectedFaqId": null
+  },
+  {
+    "question": "Translate hello into French.",
+    "expectedFaqId": null
+  },
+  {
+    "question": "How do I connect Bluetooth headphones?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "Why is my laptop overheating?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "Can you suggest a skincare routine?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "What is a good diet for weight loss?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "Explain how blockchain works.",
+    "expectedFaqId": null
+  },
+  {
+    "question": "How do I create a GitHub repository?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "What are the best books for learning programming?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "Tell me a fun fact about space.",
+    "expectedFaqId": null
+  },
+  {
+    "question": "How do I make a cup of coffee?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "What is the population of India?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "Can you help me write my resume?",
+    "expectedFaqId": null
+  },
+  {
+    "question": "How do I learn data structures and algorithms?",
+    "expectedFaqId": null
+  }
+]

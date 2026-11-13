@@ -1,0 +1,155 @@
+
+const faqs = [
+    {
+        id: 1,
+        question: "How can I track my order?",
+        answer: "You can track your order through the My Orders section of your account."
+    },
+    {
+        id: 2,
+        question: "How long does a refund take?",
+        answer: "Refunds usually take 5 to 7 business days after approval."
+    },
+    {
+        id: 3,
+        question: "Can I cancel my order?",
+        answer: "You can cancel your order before it is shipped."
+    },
+    {
+        id: 4,
+        question: "What is your return policy?",
+        answer: "Eligible products can be returned within 7 days of delivery."
+    },
+    {
+        id: 5,
+        question: "How can I change my delivery address?",
+        answer: "You can update your delivery address before your order is shipped."
+    },
+    {
+        id: 6,
+        question: "What payment methods are accepted?",
+        answer: "We accept UPI, debit cards, credit cards and net banking."
+    },
+    {
+        id: 7,
+        question: "What should I do if my order is delayed?",
+        answer: "Check your tracking details or contact customer support for assistance."
+    },
+    {
+        id: 8,
+        question: "Can I exchange a product?",
+        answer: "Eligible products can be exchanged within 7 days of delivery."
+    },
+    {
+        id: 9,
+        question: "What if I receive a damaged product?",
+        answer: "Contact customer support with photographs of the damaged product."
+    },
+    {
+        id: 10,
+        question: "How do I contact customer support?",
+        answer: "You can contact our support team through the Help section."
+    },
+    {
+        id: 11,
+        question: "Can I pay using cash on delivery?",
+        answer: "Cash on delivery is available for eligible locations and orders."
+    },
+    {
+        id: 12,
+        question: "Why was my payment declined?",
+        answer: "Your payment may have failed due to insufficient funds, bank restrictions or incorrect details."
+    },
+    {
+        id: 13,
+        question: "Will I receive a refund for a cancelled order?",
+        answer: "Yes, prepaid cancelled orders are eligible for a refund."
+    },
+    {
+        id: 14,
+        question: "How can I download my invoice?",
+        answer: "You can download your invoice from the order details section."
+    },
+    {
+        id: 15,
+        question: "Is free shipping available?",
+        answer: "Free shipping is available on eligible orders according to current offers."
+    },
+    {
+        id: 16,
+        question: "Can I return a product after opening it?",
+        answer: "Returns depend on the product category and its eligibility conditions."
+    },
+    {
+        id: 17,
+        question: "What happens if I miss my delivery?",
+        answer: "The delivery partner may attempt delivery again on the next working day."
+    },
+    {
+        id: 18,
+        question: "How do I reset my password?",
+        answer: "Use the Forgot Password option on the login page to reset your password."
+    },
+    {
+        id: 19,
+        question: "Can I place an order without creating an account?",
+        answer: "You need to provide the required contact and delivery details to place an order."
+    },
+    {
+        id: 20,
+        question: "How can I update my phone number?",
+        answer: "You can update your phone number through your account profile settings."
+    },
+    {
+        id: 21,
+        question: "Why is my refund delayed?",
+        answer: "Refund delays may occur due to bank processing times or payment provider issues."
+    },
+    {
+        id: 22,
+        question: "Can I change the size of my product?",
+        answer: "You can request a size exchange if the product is eligible."
+    },
+    {
+        id: 23,
+        question: "Do you deliver on weekends?",
+        answer: "Weekend delivery depends on your location and courier availability."
+    },
+    {
+        id: 24,
+        question: "How can I report a missing item?",
+        answer: "Contact customer support and provide your order details."
+    },
+    {
+        id: 25,
+        question: "Can I use multiple discount coupons?",
+        answer: "Only one discount coupon can generally be applied per order."
+    },
+    {
+        id: 26,
+        question: "How do I delete my account?",
+        answer: "Contact customer support to request account deletion."
+    },
+    {
+        id: 27,
+        question: "Are online payments secure?",
+        answer: "Payments are processed through secure payment gateways."
+    },
+    {
+        id: 28,
+        question: "Can I modify my order after placing it?",
+        answer: "Order modifications depend on its processing and shipping status."
+    },
+    {
+        id: 29,
+        question: "What if I receive the wrong product?",
+        answer: "Contact customer support with photographs and your order details."
+    },
+    {
+        id: 30,
+        question: "How can I check my refund status?",
+        answer: "You can check your refund status through the order details section."
+    }
+];
+
+module.exports = faqs;
